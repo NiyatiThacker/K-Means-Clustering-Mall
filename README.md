@@ -53,7 +53,8 @@ Used the [Mall Customer Segmentation Data](https://www.kaggle.com/vjchoudhary7/c
 ### 4️⃣ Visualize Clusters
 - Color-coded clusters with `viridis` palette
 - Plotted **centroids** with red X markers
-![image](https://github.com/user-attachments/assets/f9074e2f-ac67-49ee-a222-b6f2a1a1f99e)
+  
+ ![image](https://github.com/user-attachments/assets/f9074e2f-ac67-49ee-a222-b6f2a1a1f99e)
 
 ### 5️⃣ Evaluate Clustering
 - Used **Silhouette Score** to measure quality → `0.5539` ✅
